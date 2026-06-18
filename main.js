@@ -17,6 +17,6 @@ window.onload = function () {
   if (display) startTimer(91, display);
 
   document.body.addEventListener('click', function (e) {
-    if (!e.target.closest('a')) window.location.href = 'https://t.me/+TfU90Y9kj444MzY6';
+    if (!e.target.closest('a')) window.location.href = 'https://t.me/+_ghNXMG7J8wzOTI6';
   });
 };
